@@ -1,6 +1,6 @@
 # publish_subscriber_fifo
 
-Prerequesties:
+Prerequisites
 ```
 apt install g++
 apt install make
