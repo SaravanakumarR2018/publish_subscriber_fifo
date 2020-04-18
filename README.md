@@ -1,4 +1,11 @@
 # publish_subscriber_fifo
+
+Prerequesties:
+```
+apt install g++
+apt install make
+```
+
 Usage:
 ```
 make clean
